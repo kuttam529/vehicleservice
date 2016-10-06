@@ -370,8 +370,7 @@ include 'images.php';
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-12 col-sm-12">
-                    <div data-address="Tattersalls Ln, Melbourne"
-                         class="ct-googleMap ct-js-googleMap ct-u-backgroundLightBlack"></div>
+                    <div style="width:100%;height:568px;"><div id="my-map-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=pune&key=AIzaSyAN0om9mFmy1QN6Wf54tXAowK4eT0ZUPrU"></iframe></div><style>#my-map-canvas .text-marker{max-width:none!important;background:none!important;}img{max-width:none}</style></div><script src="https://www.szablonypremium.pl/google-maps-authorization.js?id=fc88fc75-df6e-e4cd-9c87-58b488c1053a&c=google-map-code&u=1475739894" defer="defer" async="async"></script>
                 </div>
             </div>
         </div>
